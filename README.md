@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @Bahae25
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ..
+- البرمجة
+- 🌱 I’m currently learning ..html
+- 
+- 💞️ I’m looking to collaborate on ..البرمجة
+-
+- 📫 How to reach me ..الاحتراف
+- 
 
 <!---
 Bahae25/Bahae25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
